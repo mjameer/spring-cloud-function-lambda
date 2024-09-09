@@ -12,3 +12,6 @@ Implementation done via Java 8 and Spring boot 2.x
 curl -X POST -H 'Content-Type: text/plain' <API_GATEWAY_URL>
 ```
 
+### Reference
+
+- for Java 21 - https://github.com/mjameer/spring-cloud-function-s3events-java21.git
